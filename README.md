@@ -6,17 +6,17 @@
 ## Team Responsibility
 | **Team** | **Building**          | **F1**       | **F2**            | **F3**                       | **F4**            |
 |:--------:|:---------------------:|:------------:|:-----------------:|:----------------------------:|:-----------------:|
-| 1        | Arsenal               | PRO Building | Opponent Building | Opponent Building            | Supply Points     |
+| 1        | Arsenal               | 142R Building | Opponent Building | Opponent Building            | Supply Points     |
 |          | Workshop              |              |                   |                              |                   |
 |          | Ammo Depot            |              |                   |                              |                   |
 | ----     | ----                  | ----         | ----              | ----                         | ----              |
-| 2        | Top Command Center    | PRO Building | Opponent Building | Opponent Supply Points/Rally | PRO Supply Points |
+| 2        | Top Command Center    | 142R Building | Opponent Building | Opponent Supply Points/Rally | 142R Supply Points |
 |          | Top Guard Tower       |              |                   |                              |                   |
 | ----     | ----                  | ----         | ----              | ----                         | ----              |
-| 3        | Bottom Command Center | PRO Building | Opponent Building | Opponent Supply Points/Rally | PRO Supply Points |
+| 3        | Bottom Command Center | 142R Building | Opponent Building | Opponent Supply Points/Rally | 142R Supply Points |
 |          | Bottom Guard Tower    |              |                   |                              |                   |
 | ----     | ----                  | ----         | ----              | ----                         | ----              |
-| 4        | Hospital              | PRO Building | Opponent Building | Opponent Supply Points/Rally | PRO Supply Points |
+| 4        | Hospital              | 142R Building | Opponent Building | Opponent Supply Points/Rally | 142R Supply Points |
 |          | Gas Station           |              |                   |                              |                   |
 
 ![BattleField](Battlefield.jpg)
@@ -29,11 +29,11 @@
 
 1.  ### **Command Center (Corner big building):**
 
-    1.  An occupied Command Center provides Victory Points (Solo and Clan) for the occupying Clan. It also allows members of the occupying Clan to relocate near the Command Center. If the Command Center is taken, you will automatically relocate to your Clan’s Safe Zone.
+    1.  An occupied Command Center 142Rvides Victory Points (Solo and Clan) for the occupying Clan. It also allows members of the occupying Clan to relocate near the Command Center. If the Command Center is taken, you will automatically relocate to your Clan’s Safe Zone.
 
 2.  ### **Arsenal (Center Building) :**
 
-    1.  An occupied Arsenal provides Victory Points (Solo and Clan), plus a bonus amount of Victory Points every 10 minutes (Clan).
+    1.  An occupied Arsenal 142Rvides Victory Points (Solo and Clan), plus a bonus amount of Victory Points every 10 minutes (Clan).
 
 3.  ### **Supply point (Material in Map):**
 
@@ -41,11 +41,11 @@
 
 4.  ### **Guard Tower (Sentry Tower in Map):**
 
-    1.  An occupied Guard Tower provides Victory Points (Solo and Clan) for the occupying Clan. It also increases damage dealt to the enemy in the Arsenal. This damage buff stacks.
+    1.  An occupied Guard Tower 142Rvides Victory Points (Solo and Clan) for the occupying Clan. It also increases damage dealt to the enemy in the Arsenal. This damage buff stacks.
 
 5.  ### **Workshop :**
 
-    1.  An occupied Workshop provides Battlefield Relocation items for members of the occupying Clan (only for use on the battlefield).
+    1.  An occupied Workshop 142Rvides Battlefield Relocation items for members of the occupying Clan (only for use on the battlefield).
 
 6.  ### **Ammo depot (Armory in Map) :**
 
@@ -53,7 +53,7 @@
 
 7.  ### **Gas station :**
 
-    1.  An occupied Gas Station provides Adrenaline to members of the occupying Clan, needed to allow Formations to march over the battlefield.
+    1.  An occupied Gas Station 142Rvides Adrenaline to members of the occupying Clan, needed to allow Formations to march over the battlefield.
 
 8.  ### **Hospital :**
 
@@ -108,4 +108,3 @@
 
 4. F1 Own building, F2/F3 enemy building, F4 gathering
 5. Join rallies first instead of start new ones.
- 
